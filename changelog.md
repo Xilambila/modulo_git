@@ -18,3 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
  - Changed changelog.md - adicionando a data correta
+
+ ## [0.0.1] - 2024-09-29
+
+### Added
+
+- Added ao git meu usuario.
